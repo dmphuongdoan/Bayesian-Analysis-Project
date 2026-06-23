@@ -1,6 +1,7 @@
 # Bayesian Hierarchical Analysis of Socioeconomic Factors Affecting Life Expectancy in East Asian and Pacific Countries (2000–2022)
 
-**Author:** Doan Duy My Phuong 
+**Author:** Doan Duy My Phuong
+
 **Supervisor:** Prof. Rossini Luca
 
 ## Overview
